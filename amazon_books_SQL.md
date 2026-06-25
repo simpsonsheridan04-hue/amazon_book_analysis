@@ -880,11 +880,11 @@ GROUP BY isBestSeller;
 <br/><br/>
 
 ## Conclusions
-The average KU book price is 30% of a the average non-book price
-About 35% of all listed books are available on KU
-The top 5 KU categories include fiction books of various types while the top 5 non-KU books include non-fiction and educational books
-Star ratings between KU and non-KU books are pretty similar with most books rated around 4 stars
-Best Sellers are more likely to be available on KU than Editor’s Pick and Good Read’s Choice books
+The average KU book price is 30% of a the average non-book price.
+About 35% of all listed books are available on KU.
+The top 5 KU categories include fiction books of various types while the top 5 non-KU books include non-fiction and educational books.
+Star ratings between KU and non-KU books are pretty similar with most books rated around 4 stars.
+Best Sellers are more likely to be available on KU than Editor’s Pick and Good Read’s Choice books.
 
 
 ## Visuals
