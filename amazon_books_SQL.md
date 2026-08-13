@@ -890,5 +890,8 @@ GROUP BY isBestSeller;
 ## Visuals
 
 <img width="999" height="799" alt="Dashboard 1" src="https://github.com/user-attachments/assets/6f05e925-2765-49db-a521-f77fb4fec99e" />
+<br/><br/>
+<img width="1249" height="999" alt="Dashboard 1" src="https://github.com/user-attachments/assets/a5da0d0c-56e5-45ec-a834-f8c2f76bb16c" />
+
 
 
