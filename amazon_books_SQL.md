@@ -529,7 +529,7 @@ FROM [kindle_data_2023 ]
 WHERE price != 0
 ORDER BY price
 LIMIT 5;
--- educational textbooks also have textbooks have the lowest prices and are all sold by Amazon
+-- educational textbooks also have the lowest prices and are all sold by Amazon
 ```
 <img width="1010" height="124" alt="Screenshot_20260417_122930" src="https://github.com/user-attachments/assets/088664b3-c9e3-436d-a7ad-4541a0d8c265" />
 <br/><br/>
@@ -880,11 +880,11 @@ GROUP BY isBestSeller;
 <br/><br/>
 
 ## Conclusions
-The average KU book price is 30% of a the average non-book price.
-About 35% of all listed books are available on KU.
-The top 5 KU categories include fiction books of various types while the top 5 non-KU books include non-fiction and educational books.
-Star ratings between KU and non-KU books are pretty similar with most books rated around 4 stars.
-Best Sellers are more likely to be available on KU than Editor’s Pick and Good Read’s Choice books.
+* The average KU book price is 30% the average non-book price.
+* About 35% of all listed books are available on KU.
+* The top 5 KU categories include fiction books of various types while the top 5 non-KU books include non-fiction and educational books.
+* Star ratings between KU and non-KU books are pretty similar with most books rated around 4 stars.
+* Best Sellers are more likely to be available on KU than Editor’s Pick and Good Read’s Choice books.
 
 
 ## Visuals
